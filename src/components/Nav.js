@@ -1,14 +1,14 @@
 import React from 'react';
 
 export const Nav = () => (
-  <div class="ui secondary  menu">
-    <a class="active item">
+  <div className="ui secondary  menu">
+    <a className="active item">
       Home
     </a>
-    <a class="item">
+    <a className="item">
       Messages
     </a>
-    <a class="item">
+    <a className="item">
       Friends
     </a>
     {/*<div class="right menu">
